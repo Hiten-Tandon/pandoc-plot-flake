@@ -39,11 +39,7 @@
             "Render and include figures in Pandoc documents using your plotting toolkit of choice";
           homepage = "https://laurentrdc.github.io/pandoc-plot/";
           license = lib.licenses.gpl2;
-          maintainers = with lib.maintainers; [
-            LaurentRDC
-            mgajda
-            SanchayanMaity
-          ];
+          maintainers = [ ];
         };
 
       });
